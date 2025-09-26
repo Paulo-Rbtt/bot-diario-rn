@@ -16,7 +16,7 @@ PESSOAS_PARA_BUSCAR = [
     {'nome': "Paulo Roberto Araújo Severo Filho", 'inscricao': "2114542", 'cpf': ""},
     {'nome': "Paulo Roberto Araújo Severo Filho", 'inscricao': "2020839", 'cpf': ""},
     {'nome': "Marcos Antonio de Freitas Júnior", 'inscricao': "2128572", 'cpf': ""},
-    {'nome': "Marcos Antonio de Freitas Júnior", 'inscricao': "2037772", 'cpf': ""},
+    {'nome': "Gustavo", 'inscricao': "", 'cpf': ""},
 ]
 
 def busca_sequencial_robusta(palavras_do_nome, texto_da_pagina):
