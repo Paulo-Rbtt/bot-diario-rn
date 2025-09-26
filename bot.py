@@ -13,8 +13,10 @@ from bs4 import BeautifulSoup
 
 # --- ESTRUTURA DE BUSCA ---
 PESSOAS_PARA_BUSCAR = [
-    {'nome': "Frederico Augusto Leite Lins", 'inscricao': "2021847", 'cpf': ""},
-    {'nome': "Larissa Valdeci da Costa Silva", 'inscricao': "2025068", 'cpf': ""},
+    {'nome': "Paulo Roberto Araújo Severo Filho", 'inscricao': "2114542", 'cpf': ""},
+    {'nome': "Paulo Roberto Araújo Severo Filho", 'inscricao': "2020839", 'cpf': ""},
+    {'nome': "Marcos Antonio de Freitas Júnior", 'inscricao': "2128572", 'cpf': ""},
+    {'nome': "Marcos Antonio de Freitas Júnior", 'inscricao': "2037772", 'cpf': ""},
 ]
 
 def busca_sequencial_robusta(palavras_do_nome, texto_da_pagina):
